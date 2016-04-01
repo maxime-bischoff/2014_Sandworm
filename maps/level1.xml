@@ -1,0 +1,55 @@
+<level>
+	<block rotation="0" posX="-24.96479519" posZ="-22.05157341" sizeX="6.01326137" sizeZ="6.01326137" shape="Circle"/> 
+	<block rotation="0" posX="-33.97221743" posZ="47.52319236" sizeX="6.465897467" sizeZ="6.465897467" shape="Circle"/> 
+	<block rotation="0" posX="-3.999554302" posZ="48.50964931" sizeX="6.465897467" sizeZ="6.465897467" shape="Circle"/> 
+	<block rotation="0" posX="4.285881864" posZ="48.50964931" sizeX="6.465897467" sizeZ="6.465897467" shape="Circle"/> 
+	<block rotation="0" posX="-29.04241017" posZ="-65.27986895" sizeX="73.76931652" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="-3.523679676" posZ="19.23938434" sizeX="2.231460942" sizeZ="2.231460942" shape="Circle"/> 
+	<block rotation="46.30006404" posX="-78.06320288" posZ="-50.14538163" sizeX="41.78516566" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="-110.1157717" posZ="-35.15388194" sizeX="36.86810267" sizeZ="2" shape="Box"/> 
+	<block rotation="137.4140336" posX="-118.8705776" posZ="-4.631559681" sizeX="1e-012" sizeZ="2" shape="Box"/> 
+	<block rotation="83.15642663" posX="-129.0886888" posZ="-25.64602224" sizeX="19.62809834" sizeZ="2" shape="Box"/> 
+	<block rotation="137.4140336" posX="-118.8705776" posZ="-4.631559681" sizeX="31.04739966" sizeZ="2" shape="Box"/> 
+	<block rotation="90" posX="-108.795512" posZ="38.32705152" sizeX="67.26161862" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="-97.4193295" posZ="70.17678121" sizeX="21.69017758" sizeZ="2" shape="Box"/> 
+	<block rotation="45" posX="-72.3698814" posZ="56.55975847" sizeX="39.7167618" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="-46.05073544" posZ="42.37836427" sizeX="22.77508733" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="-0.891166693" posZ="42.37836427" sizeX="13.71984543" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="-19.01676161" posZ="62.168861" sizeX="18.91974519" sizeZ="2" shape="Box"/> 
+	<block rotation="90" posX="-28.89506082" posZ="57.66611833" sizeX="16.28707984" sizeZ="2" shape="Box"/> 
+	<block rotation="90" posX="-9.092709525" posZ="57.66611833" sizeX="16.28707984" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="17.913436" posZ="50.58786284" sizeX="16.28707984" sizeZ="2" shape="Box"/> 
+	<block rotation="47.77661136" posX="32.09153616" posZ="42.04650288" sizeX="22.37525649" sizeZ="2" shape="Box"/> 
+	<block rotation="90" posX="39.87379968" posZ="26.13190192" sizeX="22.37525649" sizeZ="2" shape="Box"/> 
+	<block rotation="45" posX="49.31476322" posZ="5.880245238" sizeX="27.17272841" sizeZ="2" shape="Box"/> 
+	<block rotation="90" posX="58.99757191" posZ="-11.32467965" sizeX="15.76124598" sizeZ="2" shape="Box"/> 
+	<block rotation="135" posX="40.60852825" posZ="-38.95564123" sizeX="56.55028975" sizeZ="2" shape="Box"/> 
+	<block rotation="0" posX="15.51027099" posZ="-62.92331232" sizeX="7.703707527" sizeZ="7.703707527" shape="Circle"/> 
+	<block rotation="0" posX="-89.64653698" posZ="58.42591811" sizeX="1.726425499" sizeZ="1.726425499" shape="Circle"/> 
+	<block rotation="0" posX="-118.051566" posZ="-11.86335064" sizeX="2.239695697" sizeZ="2.239695697" shape="Circle"/> 
+	<block rotation="0" posX="16.82564214" posZ="25.96018575" sizeX="2.751374859" sizeZ="2.751374859" shape="Circle"/> 
+	<column name="pCylinder1" posX="-21.76995734" posZ="7.35091777" radius="1"/> 
+	<column name="pCylinder2" posX="19.08859911" posZ="7.35091777" radius="1"/> 
+	<column name="pCylinder3" posX="-11.78196182" posZ="37.99705914" radius="1"/> 
+	<column name="pCylinder4" posX="-56.8742895" posZ="-18.56502198" radius="1"/> 
+	<column name="pCylinder6" posX="-28.57442509" posZ="37.70840186" radius="1"/> 
+	<column name="pCylinder12" posX="-104.4308276" posZ="-18.36794992" radius="1"/> 
+	<column name="pCylinder13" posX="-83.7670071" posZ="21.19088722" radius="1"/> 
+	<column name="pCylinder14" posX="-77.98944683" posZ="26.28175066" radius="1"/> 
+	<column name="pCylinder23" posX="-33.58972605" posZ="-27.13118687" radius="1"/> 
+	<column name="pCylinder25" posX="-75.59649835" posZ="16.9352599" radius="1"/> 
+	<column name="pCylinder26" posX="-51.78191909" posZ="14.21355502" radius="1"/> 
+	<column name="pCylinder27" posX="13.00266068" posZ="-34.09032541" radius="1"/> 
+	<reward rotation="0" posX="-19.71719964" posZ="39.07490252" type="test" starter="true"/> 
+	<reward rotation="0" posX="-79.1525276" posZ="20.53797829" type="test2" starter="false"/> 
+	<reward rotation="0" posX="48.43264507" posZ="-11.86866471" type="test3" starter="false"/> 
+	<reward rotation="0" posX="-15.78053386" posZ="-21.84415224" type="test2" starter="false"/> 
+	<reward rotation="0" posX="26.82566543" posZ="38.8121633" type="test2" starter="false"/> 
+	<reward rotation="0" posX="-55.03527306" posZ="-15.09913954" type="test2" starter="false"/> 
+	<reward rotation="0" posX="-95.31280637" posZ="62.82760477" type="test2" starter="false"/> 
+	<reward rotation="0" posX="-34.42648896" posZ="-48.69063758" type="test2" starter="false"/> 
+	<reward rotation="0" posX="-112.6457383" posZ="-21.02141504" type="test2" starter="false"/> 
+	<playerspawn posX="-19.406486" posZ="51.24228417"/>
+	<wormspawn posX="-4.164413584" posZ="-5.4730475"/>
+	<cameraborder left="-136.4439734" up="-76.57688062" right="80.49108211" down="78.51676501"/>
+</level>

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="area.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="collision.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="collumn.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lib\flib\flib_vec2.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lib\flib\flib.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="hitbox.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="offering.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="sandworm.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="transform.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="wall.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="luafunctions.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lib\lua\lua.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\lib\flib\flib_vec3.cpp">
+      <Filter>Cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="repeller.cpp" />
+    <ClCompile Include="XML\TXML_Attribute.cpp">
+      <Filter>XML\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="XML\TXML_Element.cpp">
+      <Filter>XML\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="XML\TXML_Parser.cpp">
+      <Filter>XML\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="XML\TXML_Root.cpp">
+      <Filter>XML\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="level_select_menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="main_menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="popup_menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="area.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="collision.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="collumn.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="draw.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\lib\flib\flib_vec2.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="hitbox.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="offering.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sandworm.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="transform.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="wall.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="const.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="luafunctions.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\lib\lua\lua.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\lib\flib\flib_vec3.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="repeller.h" />
+    <ClInclude Include="XML\TSLL_Item.h">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TSLL_Item.hpp">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TSLL_Root.h">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TSLL_Root.hpp">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TSLL_TXML_Itemvalue.h">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TSLL_TXML_Itemvalue.hpp">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TXML_Attribute.h">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TXML_Element.h">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TXML_Parser.h">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="XML\TXML_Root.h">
+      <Filter>XML\header</Filter>
+    </ClInclude>
+    <ClInclude Include="level_select_menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="main_menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="popup_menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Cpp">
+      <UniqueIdentifier>{a8837559-81eb-4b6d-b14c-82fadf1ff646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{49185341-0edb-4d7b-9f20-bc274168098c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XML">
+      <UniqueIdentifier>{fae53713-7868-4790-8e18-49b5e5328de5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XML\cpp">
+      <UniqueIdentifier>{0497fb45-f9a4-4943-91c6-09a4e76f2dbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XML\header">
+      <UniqueIdentifier>{3cf5020c-2f5f-42d7-bcce-2b61853ab070}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{59abf2b5-36f7-449e-8462-0491f780db24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

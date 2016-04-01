@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2014_TFA_Prototype_2", "2014_TFA_Prototype_2.vcxproj", "{41428B84-3821-43BE-8EE0-396B0A434772}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FreshViewer", "FreshViewer\FreshViewer.vcxproj", "{FE596837-E162-BB4B-A675-916E02FE2913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PSP = Debug|PSP
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		PS3|PSP = PS3|PSP
+		PS3|Win32 = PS3|Win32
+		PS3|x64 = PS3|x64
+		Psp_release_flib|PSP = Psp_release_flib|PSP
+		Psp_release_flib|Win32 = Psp_release_flib|Win32
+		Psp_release_flib|x64 = Psp_release_flib|x64
+		PSP_release|PSP = PSP_release|PSP
+		PSP_release|Win32 = PSP_release|Win32
+		PSP_release|x64 = PSP_release|x64
+		PSP|PSP = PSP|PSP
+		PSP|Win32 = PSP|Win32
+		PSP|x64 = PSP|x64
+		Release|PSP = Release|PSP
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Debug|PSP.ActiveCfg = Debug|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Debug|Win32.Build.0 = Debug|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Debug|x64.ActiveCfg = Debug|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PS3|PSP.ActiveCfg = PS3|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PS3|Win32.ActiveCfg = PS3|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PS3|Win32.Build.0 = PS3|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PS3|x64.ActiveCfg = PS3|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Psp_release_flib|PSP.ActiveCfg = Psp_release_flib|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Psp_release_flib|Win32.ActiveCfg = Psp_release_flib|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Psp_release_flib|Win32.Build.0 = Psp_release_flib|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Psp_release_flib|x64.ActiveCfg = Psp_release_flib|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP_release|PSP.ActiveCfg = Psp_release_flib|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP_release|Win32.ActiveCfg = PSP|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP_release|Win32.Build.0 = PSP|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP_release|x64.ActiveCfg = PSP|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP|PSP.ActiveCfg = PSP|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP|Win32.ActiveCfg = Release|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP|Win32.Build.0 = Release|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.PSP|x64.ActiveCfg = PSP|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Release|PSP.ActiveCfg = Release|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Release|Win32.ActiveCfg = Release|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Release|Win32.Build.0 = Release|Win32
+		{41428B84-3821-43BE-8EE0-396B0A434772}.Release|x64.ActiveCfg = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Debug|PSP.ActiveCfg = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Debug|Win32.ActiveCfg = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Debug|Win32.Build.0 = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Debug|x64.ActiveCfg = Release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Debug|x64.Build.0 = Release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PS3|PSP.ActiveCfg = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PS3|Win32.ActiveCfg = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PS3|Win32.Build.0 = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PS3|x64.ActiveCfg = Release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PS3|x64.Build.0 = Release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Psp_release_flib|PSP.ActiveCfg = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Psp_release_flib|Win32.ActiveCfg = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Psp_release_flib|Win32.Build.0 = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Psp_release_flib|x64.ActiveCfg = PSP_release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Psp_release_flib|x64.Build.0 = PSP_release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP_release|PSP.ActiveCfg = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP_release|Win32.ActiveCfg = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP_release|Win32.Build.0 = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP_release|x64.ActiveCfg = PSP_release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP_release|x64.Build.0 = PSP_release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP|PSP.ActiveCfg = PSP_release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP|Win32.ActiveCfg = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP|Win32.Build.0 = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP|x64.ActiveCfg = Release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.PSP|x64.Build.0 = Release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Release|PSP.ActiveCfg = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Release|Win32.ActiveCfg = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Release|Win32.Build.0 = Release|Win32
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Release|x64.ActiveCfg = Release|x64
+		{FE596837-E162-BB4B-A675-916E02FE2913}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
